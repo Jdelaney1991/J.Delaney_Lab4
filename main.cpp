@@ -99,6 +99,7 @@ int main() {
     print_distance();
     printf("\r\n");
     
+    
     while(1) {
         wait_us(500000);
     }
